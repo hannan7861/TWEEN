@@ -1,0 +1,209 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav1 li {
+    font-size: 18px;
+    font-family: sans-serif;
+    
+
+}
+
+button {
+    border: none;
+}
+
+.a {
+    background-image: url(img.1.jpg);
+  
+    background-size: cover;
+    background-position: center;
+opacity: 0.7;
+    height: 85vh;
+
+
+}
+.position-relative{
+    top: 37vh;
+    left: 80px;
+    width: 15vw;
+}
+
+.a h1 {
+    font-size: 68px;
+    font-family: sans-serif;
+}
+
+.a h1 {
+    margin-left: 7vw;
+    margin-top: 15vh;
+}
+.d-block{
+    top: 20vh;
+    left: 70px;
+    width: 15vw;
+}
+
+.b1 {
+    margin-left: 7vw;
+    margin-top: 6vh;
+}
+
+.n2 {
+    margin-top: 6vh;
+}
+
+.n2 li {
+    font-size: px;
+    font-family: sans-serif;
+    border-bottom: 1px solid black;
+
+
+}
+.n4 h3{
+    font-size: 36px;
+    font-family: sans-serif;
+}
+.container1{
+    background-color: #f5f5f5;
+}
+.container1 h2,h4{
+    font-size: 42px;
+    font-family: sans-serif;
+}
+.n5 p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.d1{
+    height: 47vh;
+    width: 29vw;
+
+    background-image: url(anthony-espinosa-pYQSM-p_0_c-unsplash.jpg);
+    background-size: cover;
+   
+   
+}
+.d2{
+    top:40vh ;
+    height: 30vh;
+    width: 29vw;
+   
+    background-image: url(samantha-gades-lf2pD--wIUA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.d1 h4{
+    padding-top: 40vh;
+
+}
+.d3{
+    height: 31vh;
+    width: 29vw;
+
+    background-image: url(business-chart-visual-graphics-report-concept.jpg);
+    background-size: cover;
+}
+.d4{
+    height: 46vh;
+    width: 29vw;
+   
+    background-image: url(tyler-nix-HmVQh_EQJhY-unsplash.jpg);
+    background-size: cover;
+}
+.mt-3{
+    
+}
+.h4{
+    top: 36vh;
+}
+.d5{
+    height: 61vh;
+    width: 29vw;
+
+    background-image: url(mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg);
+    background-size: cover;
+}
+.h5{
+    top: 51vh;
+}
+.container2{
+    height: 100vh;
+    background-image: url(maria-stewart-p4tj0g-_aMM-unsplash.jpg);
+    background-size: cover;
+    
+}
+.cot{
+    height: 70vh;
+    width: 30vw;
+}
+.d{
+    height: 30vh;
+    width: 90vw;
+    border: 1px solid black;
+}
+.s{
+    width: 90vw;
+}
+@media only screen and (max-width:450px) {
+    .a{
+       height: auto;
+    }
+    .nav1{
+        flex-direction: column;
+        text-align: center;
+    }
+    .n3{
+        flex-direction: column;
+      
+    }
+    .n5{
+        flex-direction: column;
+        height: auto;
+    }
+   .nn{
+    flex-direction: column;
+   }
+   .tt{
+    flex-direction: column;
+  
+    justify-content: center;
+    align-items: center;
+   }
+   .d5{
+   
+   }
+   .company{
+    text-align: center;
+   }
+   .asal{
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    width: auto;
+   }
+   .container2{
+    height: 250vh;
+    height: auto;
+    width: auto;
+   }
+   button{
+    margin: 0;
+   }
+   .cot{
+  left: 0px;
+  height: auto;
+  width: auto;
+
+   }
+}
+.footer{
+    background-color: #031926;
+}
+.i1{
+    background-color: #031926;
+}
+.m1{
+    border-bottom: 1px solid rgb(91, 87, 87);
+}
